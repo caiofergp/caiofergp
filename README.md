@@ -37,7 +37,7 @@ Também já participei de múltiplos projetos simultaneamente, colaborando com e
 ### Back-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel" />
 </p>
 
 ### Mobile
@@ -72,6 +72,7 @@ Também já participei de múltiplos projetos simultaneamente, colaborando com e
 ✓ Next.js
 ✓ React Native
 ✓ Node.js
+✓ Nest.js
 ✓ Express.js
 ✓ JavaScript
 ✓ TypeScript
